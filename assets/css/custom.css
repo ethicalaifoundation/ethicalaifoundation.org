@@ -1,0 +1,23 @@
+.hextra-card .items-start{
+    font-size: 1.5rem;
+}
+
+body > div.mx-auto.flex.max-w-\[90rem\] > article > main > div > h1 {
+    font-size: 2.5rem;
+    text-align: left;
+}
+
+body > div.mx-auto.flex.max-w-\[90rem\] > article > main > h1 {
+    font-size: 2.5rem;
+    text-align: left;
+}
+
+body > div.mx-auto.flex.max-w-\[90rem\] > article > main > div.content > h1 {
+    font-size: 2.5rem;
+    text-align: left;
+
+}
+
+body > div.mx-auto.flex.max-w-\[90rem\] > article > main > div > p {
+    font-size: 1.2rem;
+}
